@@ -76,3 +76,11 @@ strong{
     background-color: white;
 
 }
+img
+{
+    height : 135px;
+    width :135px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 3px;
+}
